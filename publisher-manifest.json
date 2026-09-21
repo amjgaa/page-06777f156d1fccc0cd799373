@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7be002e23131de92e4ae4fda",
+  "owner": "amjgaa",
+  "repo": "page-06777f156d1fccc0cd799373",
+  "title": "大阪国際",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "06777f156d1fccc0cd799373",
+      "a": "大阪国際",
+      "b": "稳定全球clash加速器",
+      "entity": "大阪国際",
+      "brand": "大阪国際",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5c62a0739854cf4c13c2958e42e9e09beb2bf088151d8aabb1b80c80a419e15c",
+      "content": {
+        "primary_entity": "大阪国際",
+        "keyword1": "大阪国際",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，再按文档导入订阅。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "按设备与用量选择大阪国際套餐，导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，提供多档流量套餐与设备在线选项，支持在常用客户端导入订阅并选择节点，适合日常浏览、流媒体播放与游戏加速等场景。",
+          "AI_FEATURES_INTRO": "从套餐、设备与订阅周期三个方面了解大阪国際的配置思路。",
+          "AI_FEATURES_TITLE": "套餐与配置特点",
+          "AI_FEATURE_TEXT_1": "按每月流量与在线设备数选择基础版、旗舰版或团队版。",
+          "AI_FEATURE_TEXT_2": "根据手机、电脑或路由器系统选择对应客户端并导入订阅。",
+          "AI_FEATURE_TEXT_3": "月付灵活体验，年付可按年付价格获得更长订阅周期。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备选客户端",
+          "AI_FEATURE_TITLE_3": "按月付或年付",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步完成使用配置",
+          "AI_HERO_INTRO": "大阪国際面向需要稳定跨境网络的用户，提供多档流量套餐与设备在线数选择，可在常见客户端导入订阅，按客户端文档完成配置即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备配置使用",
+          "AI_HIGHLIGHT_1": "多档流量套餐按需选择",
+          "AI_HIGHLIGHT_2": "覆盖多平台客户端导入",
+          "AI_HIGHLIGHT_3": "月付与年付灵活订阅",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并含 IPLC 专线；团队版每月 1000GB、20 台设备，按用量与人数选择即可。",
+          "AI_PLANS_TITLE": "对比套餐用量与设备数",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "确认设备系统与订阅周期，查看套餐适配的客户端类型和节点范围。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅，选择节点后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "大阪国際套餐与客户端配置",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "大阪国際套餐可以同时用几台设备？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量时部分设备可能无法同时连接，可按需升级套餐。",
+          "AI_FAQ_QUESTION_2": "订阅地址如何导入客户端？",
+          "AI_FAQ_ANSWER_2": "在客户端中选择订阅导入或手动添加配置，粘贴订阅地址后更新节点列表。不同客户端入口位置不同，可参照对应文档操作。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月续费，年付一次性支付全年费用。以基础版为例，年付 ¥150 相当于每月约 ¥12.5，比月付 ¥15 更划算。",
+          "AI_FAQ_QUESTION_4": "流量用完了会怎样？",
+          "AI_FAQ_ANSWER_4": "套餐流量按月重置。若当月提前用尽，可等待下月重置或升级到更高流量档位，旗舰版与团队版提供更大月流量。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB、支持 20 台设备，并提供高带宽节点与企业定制路由，适合小型团队、工作室或多终端家庭使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ivquxhx.cn",
+    "host": "ivquxhx.cn"
+  },
+  "file_hashes": {
+    "index.html": "84fefabe7851cbbf1e93a4f641795e387838b570fba73b93e58f30cf46c02693",
+    "sitemap.xml": "6ef9b162e98478f2c095197f05df20e84d5f214698308324836425923c440d11",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0b77d36dc82c2c94dc593f85087bfe2f2279a00ec7792d8d737e16357ec44913",
+    "robots.txt": "ee0453a7864997d8d48c5a9da831d1510b0876015e766ac8eec1aab91b22a2a8",
+    "66ec93301bedeaef63effc357c72d963.txt": "eca8474af58374151297c89025886fd0914175ded09ad59f74b684624e8a360a"
+  },
+  "revision": "d972bc551fd4d94400b2f2f0898eea91f420a084204831df773775ebe8bca7f2"
+}
